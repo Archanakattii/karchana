@@ -1,4 +1,24 @@
 # karchana
+**A 4-week Research Internship on RISC-V using VSDSquadron Mini RISC-V Dev Board**
+BOARD SPECS:</p>
+
+CH32V003F4U6 chip with 32-bit RISC-V core based on RV32EC instruction set</p>
+SRAM 2kb onchip volatile sram 16kb external program memory</p>
+Processor 24 MHz</p>
+Sink Current per I/O Pin 8 mA</p>
+Source Current per I/O Pin 8 mA</p>
+Input voltage (nominal) 5 V</p>
+I/O voltage 3.3 V</p>
+Programmer/debugger Onboard RISC-V programmer/debugger, USB to TTL serial port support</p>
+SPI 1x, PC5(SCK), PC1(NSS), PC6(MOSI), PC7(MISO)</p>
+I2C 1x, PC1(SDA), PC2(SCL)</p>
+USART 1x, PD6(RX), PD5(TX)</p>
+External interrupts 8 external interrupt edge detectors, but it only maps one external interrupt to 18 I/O ports</p>
+PWM pins 14X</p>
+Analog I/O pins 10-bit ADC, PD0-PD7, PA1, PA2, PC4</p>
+Digital I/O pins 15</p>
+Built-in LED Pin 1X onboard user led (PD6)</p>
+USB 2.0 Type-C</p>
 TASK 1:</p>
 1.To install RISC-V GNU Tool chain </p>
 ![WhatsApp Image 2024-02-20 at 5 26 03 PM](https://github.com/Archanakattii/karchana/assets/160317292/2a265643-d661-4a6a-babf-23f62a907f10)
