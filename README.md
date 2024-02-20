@@ -23,6 +23,10 @@ TASK 1:</p>
 1.To install RISC-V GNU Tool chain </p>
 ![WhatsApp Image 2024-02-20 at 5 26 03 PM](https://github.com/Archanakattii/karchana/assets/160317292/2a265643-d661-4a6a-babf-23f62a907f10)
 
+
+![WhatsApp Image 2024-02-20 at 5 26 02 PM (2)](https://github.com/Archanakattii/karchana/assets/160317292/5f7e8e8f-57b3-4915-8b6a-d265b292d2c9)
+
+
 ![WhatsApp Image 2024-02-20 at 5 26 02 PM](https://github.com/Archanakattii/karchana/assets/160317292/f4369646-3762-4821-998e-ca4f17e5008e)
 
 2.To install Yosys</p>
