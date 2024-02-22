@@ -39,7 +39,7 @@ The J-Type instructions in the RISC-V architecture are jump instructions, which 
 <summary><b>short recap:
 </b></summary>
 <br>
-R-type instructions for register-register operations, an I-type instructions for immediate and load operations, and S-type instructions for store operations. B-type instructions for conditional branch operations. U-type instructions for long immediate and J-type instructions for unconditional jumps</p>
+R-type instructions for register-register operations, an I-type instructions for immediate and load operations, and S-type instructions for store operations. B-type instructions for conditional branch operations. U-type instructions for long immediate and J-type instructions for unconditional jumps.</p>
 </details>
 
 # Base Instructions Format
