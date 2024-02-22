@@ -58,12 +58,9 @@ Immediate: This field contains an immediate value, which is a constant or operan
 
 Funct3 and Funct7: These fields provide additional information about the operation or the specific variant of the instruction. They are typically used in conjunction with the opcode to further specify the operation or variant.</p>
 
-<details>
-<summary><b>Instruction code format </b></summary>
-	<br>
-![instruction code formats]![download](https://github.com/Archanakattii/karchana/assets/160317292/62e524ad-786e-4900-9e3f-a5a23c4017eb)
 
-</details>
+![download](https://github.com/Archanakattii/karchana/assets/160317292/a073abaf-6f33-4793-8075-8f2359e42611)
+
 
 # RISC-V REGISTER FILE: 
  <p align="justify">The RISC-V register file is a fundamental component of the RISC-V architecture, comprising a set of general-purpose registers (GPRs) used for storing data and addresses during program execution. The RISC-V ISA defines a standard set of 32 integer registers, labeled from x0 to x31.The RISC-V register file plays a crucial role in facilitating data manipulation and control flow within RISC-V programs, offering a set of storage locations for holding essential data and addresses during program execution.</p>
