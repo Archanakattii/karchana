@@ -40,4 +40,17 @@ The J-Type instructions in the RISC-V architecture are jump instructions, which 
 </b></summary>
 <br>
 R-type instructions for register-register operations, an I-type instructions for immediate and load operations, and S-type instructions for store operations. B-type instructions for conditional branch operations. U-type instructions for long immediate and J-type instructions for unconditional jumps</p>
-  </details>
+</details>
+# Base Instructions Format
+
+<p align="justify">In RISC-V, the base instruction format is a 32-bit instruction word divided into several fields. The basic format consists of opcode, rd (destination register), funct3 (function 3), rs1 (source register 1), imm (immediate value), and funct7 (function 7). This design allows for a wide range of instructions while maintaining simplicity and flexibility, which are key principles of the RISC-V architecture.</p>
+
+<details>
+<summary><b>Instruction code format </b></summary>
+	<br>
+![instruction code formats]![download](https://github.com/Archanakattii/karchana/assets/160317292/62e524ad-786e-4900-9e3f-a5a23c4017eb)
+
+</details>
+
+# RISC-V REGISTER FILE: 
+ <p align="justify">The RISC-V register file is a key component of the RISC-V architecture, providing a set of storage locations for holding data during the execution of instructions. The register file is organized into a set of integer registers and floating-point registers, depending on the extensions implemented in the processor. Registers play a crucial role in the RISC-V architecture, as they enable fast access to data and help improve the performance and efficiency of the processor.</p>
