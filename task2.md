@@ -41,9 +41,22 @@ The J-Type instructions in the RISC-V architecture are jump instructions, which 
 <br>
 R-type instructions for register-register operations, an I-type instructions for immediate and load operations, and S-type instructions for store operations. B-type instructions for conditional branch operations. U-type instructions for long immediate and J-type instructions for unconditional jumps</p>
 </details>
+
 # Base Instructions Format
 
-<p align="justify">In RISC-V, the base instruction format is a 32-bit instruction word divided into several fields. The basic format consists of opcode, rd (destination register), funct3 (function 3), rs1 (source register 1), imm (immediate value), and funct7 (function 7). This design allows for a wide range of instructions while maintaining simplicity and flexibility, which are key principles of the RISC-V architecture.</p>
+<p align="justify">The base instruction format of RISC-V (pronounced "risk-five") is a 32-bit instruction set architecture (ISA) designed to be simple, modular, and extensible. The base instruction format consists of 32 bits divided into:
+
+Opcode (OP): This field specifies the operation to be performed. It typically occupies the most significant bits (MSBs) of the instruction and defines the basic operation or type of instruction.
+
+RD (Destination Register): This field specifies the destination register where the result of the operation will be stored. It usually follows the opcode and occupies a fixed number of bits.
+
+RS1 (Source Register 1): This field specifies the first source register operand for the operation. It comes after the destination register field and occupies a fixed number of bits.
+
+RS2 (Source Register 2): This field specifies the second source register operand for the operation. It follows the RS1 field and occupies a fixed number of bits.
+
+Immediate: This field contains an immediate value, which is a constant or operand embedded within the instruction itself. It can be used as an operand for arithmetic or logical operations, or for specifying offsets in memory access instructions.
+
+Funct3 and Funct7: These fields provide additional information about the operation or the specific variant of the instruction. They are typically used in conjunction with the opcode to further specify the operation or variant.</p>
 
 <details>
 <summary><b>Instruction code format </b></summary>
@@ -53,4 +66,4 @@ R-type instructions for register-register operations, an I-type instructions for
 </details>
 
 # RISC-V REGISTER FILE: 
- <p align="justify">The RISC-V register file is a key component of the RISC-V architecture, providing a set of storage locations for holding data during the execution of instructions. The register file is organized into a set of integer registers and floating-point registers, depending on the extensions implemented in the processor. Registers play a crucial role in the RISC-V architecture, as they enable fast access to data and help improve the performance and efficiency of the processor.</p>
+ <p align="justify">The RISC-V register file is a fundamental component of the RISC-V architecture, comprising a set of general-purpose registers (GPRs) used for storing data and addresses during program execution. The RISC-V ISA defines a standard set of 32 integer registers, labeled from x0 to x31.The RISC-V register file plays a crucial role in facilitating data manipulation and control flow within RISC-V programs, offering a set of storage locations for holding essential data and addresses during program execution.</p>
