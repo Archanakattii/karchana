@@ -56,6 +56,7 @@ Sum of numbers from 1 to 250 is 31375
 
 **Search for the Main and check the instructions of the C code execution. It has 15 instructions in the C execution**
 
+    riscv-unknown-elf-objdump -d sum1ton.o | less
 ![WhatsApp Image 2024-02-27 at 10 27 15 AM](https://github.com/Archanakattii/karchana/assets/160317292/f0289633-3303-4e06-b3ca-d7a8f916be40)
 
 
