@@ -54,7 +54,8 @@ Sum of numbers from 1 to 250 is 31375
 
 
 
-**Search for the Main and check the instructions of the C code execution. It has 15 instructions in the C execution**
+**Search for the Main and check the instructions of the C code execution. It has 15 instructions in the C execution**</p>
+Open new tab and type the below command to get the instuctions:
 
     riscv-unknown-elf-objdump -d sum1ton.o | less
 ![WhatsApp Image 2024-02-27 at 10 27 15 AM](https://github.com/Archanakattii/karchana/assets/160317292/f0289633-3303-4e06-b3ca-d7a8f916be40)
@@ -65,8 +66,9 @@ Sum of numbers from 1 to 250 is 31375
 riscv64-unknown-elf-gcc -Ofast -mabi=lp64 -march=rv64i -o sum1ton.o sum1ton.c
 
 ![WhatsApp Image 2024-02-27 at 10 36 12 AM](https://github.com/Archanakattii/karchana/assets/160317292/63073724-f86d-4387-a4c9-7e8fdeb09482)
+Type this command again
 
-
+    riscv-unknown-elf-objdump -d sum1ton.o | less
 ![WhatsApp Image 2024-02-27 at 10 18 55 AM](https://github.com/Archanakattii/karchana/assets/160317292/3c05709d-667e-4bab-b692-b01907c069f4)
 
 
