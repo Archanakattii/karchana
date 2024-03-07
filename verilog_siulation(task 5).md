@@ -6,6 +6,7 @@ Installing iverilog and gtkwave</p>
 
  ```
  $ git clone https://github.com/Archanakattii/karchana
+ $ cd Documents
  $ cd hello
 ```
  Open your terminal and type the following to install iverilog and GTKWave
