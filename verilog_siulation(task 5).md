@@ -41,12 +41,12 @@ $ ./hello
 
   Full 5-stage instruction pipeline and pc-increment description Waveform
   
+![WhatsApp Image 2024-03-05 at 6 12 31 AM](https://github.com/Archanakattii/karchana/assets/160317292/8b72d733-be71-45d7-8961-49b096b28067)
 
 
 ![WhatsApp Image 2024-03-05 at 6 12 35 AM](https://github.com/Archanakattii/karchana/assets/160317292/f7db13a8-273a-44de-874d-563159f9cac2)
 
 
-![WhatsApp Image 2024-03-05 at 6 12 31 AM](https://github.com/Archanakattii/karchana/assets/160317292/8b72d733-be71-45d7-8961-49b096b28067)
 
 
 
