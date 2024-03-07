@@ -1,6 +1,6 @@
 # read design
 
-read_verilog Abdul.v
+read_verilog hello.v
 
 # generic synthesis
 synth -top hello  
