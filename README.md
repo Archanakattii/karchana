@@ -46,3 +46,28 @@
 ![WhatsApp Image 2024-02-20 at 5 26 00 PM](https://github.com/Archanakattii/karchana/assets/160317292/a4ce0873-5d00-4c5a-bd59-b28e64ddceb3)
 
 </details>
+
+<details>
+<summary><br>TASK 2:</p>
+</br></summary>
+
+
+</details>
+
+<details>
+<summary><br>TASK 3:</p>
+</br></summary>
+
+</details>
+
+<details>
+<summary><br>TASK 4:</p>
+</br></summary>
+
+</details>
+
+<details>
+<summary><br>TASK 5:</p>
+</br></summary>
+
+</details>
