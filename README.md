@@ -235,6 +235,8 @@ Type this command again
 <details>
 <summary><b>TASK 4:</p>
 </b></summary>
+
+# **GTKWAVE SIMULATION**
 The code has been broken down into different parts:</p>
 <details> 
 <summary>They are:</p>
@@ -251,7 +253,7 @@ The code has been broken down into different parts:</p>
 
 </details>
   
-**GTKWAVE SIMULATION **
+**GTKWAVE SIMULATION**
     
     ls  #to check the contents of the folder
 
@@ -293,7 +295,7 @@ Upon adding few signals the waves can be seen
 <summary><b>TASK 5:</p>
 </b></summary>
   
-**GATE LEVEL SIMULATION**</p>
+# **GATE LEVEL SIMULATION**</p>
 It should contain:</p>
 1.Gatelevel netlist</p>
 2.standard cell library</p>
