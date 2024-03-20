@@ -4,8 +4,8 @@
 ![Screenshot 2024-02-24 221803](https://github.com/Archanakattii/karchana/assets/160317292/e18ec90d-90da-4bcb-8a79-f64cbab322be)</p>
 **CH32V003F4U6 chip with 32-bit RISC-V core based on RV32EC instruction set**</p>
 <details>
-<summary><br>TASK 1:</p>
-</br></summary>
+<summary>TASK 1:</p>
+</summary>
 1.To install RISC-V GNU Tool chain </p>
   
     sudo apt install git-all  
@@ -48,26 +48,27 @@
 </details>
 
 <details>
-<summary><br>TASK 2:</p>
-</br></summary>
+<summary>TASK 2:</p>
+</summary>
 
 
-</details>
-
-<details>
-<summary><br>TASK 3:</p>
-</br></summary>
 
 </details>
 
 <details>
-<summary><br>TASK 4:</p>
-</br></summary>
+<summary>TASK 3:</p>
+</summary>
 
 </details>
 
 <details>
-<summary><br>TASK 5:</p>
-</br></summary>
+<summary>TASK 4:</p>
+</summary>
+
+</details>
+
+<details>
+<summary>TASK 5:</p>
+</summary>
 
 </details>
