@@ -251,7 +251,7 @@ The code has been broken down into different parts:</p>
 
 </details>
   
- GTKWAVE SIMULATION 
+**GTKWAVE SIMULATION **
     
     ls  #to check the contents of the folder
 
@@ -287,5 +287,19 @@ Upon adding few signals the waves can be seen
 <details>
 <summary><b>TASK 5:</p>
 </b></summary>
+  
+**GATE LEVEL SIMULATION**</p>
+It should contain:</p>
+1.Gatelevel netlist</p>
+2.standard cell library</p>
+3.Yosys Synthesis Script</p>
+
+  ![WhatsApp Image 2024-03-20 at 3 21 23 PM (2)](https://github.com/Archanakattii/karchana/assets/160317292/cc8feb63-62d3-4469-bc75-31fb2546f0fa)
+OPERATIONS:</p>
+ADD operations
+![WhatsApp Image 2024-03-20 at 8 15 14 PM](https://github.com/Archanakattii/karchana/assets/160317292/8c77b478-2605-482e-ad73-b27e069c3e83)
+SUB operations
+![WhatsApp Image 2024-03-20 at 8 17 26 PM](https://github.com/Archanakattii/karchana/assets/160317292/09a5dd82-848c-4f48-a609-e2c93d51cfee)
+
 
 </details>
