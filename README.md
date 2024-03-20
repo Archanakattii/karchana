@@ -235,6 +235,19 @@ Type this command again
 <details>
 <summary><b>TASK 4:</p>
 </b></summary>
+ GTKWAVE SIMULATION 
+    
+    ls  #to check the contents of the folder
+
+    iverilog archana.v archana_tb.v #to simulate the verilog code and to check the errors
+
+    ./a.out  #to get the output and make vcd file to be ready open
+after running above commands for gtkwave window to pop up type</p>
+    
+    gtkwave archana.vcd
+![WhatsApp Image 2024-03-20 at 3 30 02 PM](https://github.com/Archanakattii/karchana/assets/160317292/f001eea0-c711-4cb7-9473-d1bf5431d025)
+
+![WhatsApp Image 2024-03-20 at 3 21 22 PM](https://github.com/Archanakattii/karchana/assets/160317292/62ef5c85-054c-4627-aea3-52eaf621f22d)
 
 </details>
 
