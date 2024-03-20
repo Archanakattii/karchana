@@ -296,10 +296,15 @@ It should contain:</p>
 
   ![WhatsApp Image 2024-03-20 at 3 21 23 PM (2)](https://github.com/Archanakattii/karchana/assets/160317292/cc8feb63-62d3-4469-bc75-31fb2546f0fa)
 OPERATIONS:</p>
-ADD operations
+ADD operation
 ![WhatsApp Image 2024-03-20 at 8 15 14 PM](https://github.com/Archanakattii/karchana/assets/160317292/8c77b478-2605-482e-ad73-b27e069c3e83)
-SUB operations
+SUB operation
 ![WhatsApp Image 2024-03-20 at 8 17 26 PM](https://github.com/Archanakattii/karchana/assets/160317292/09a5dd82-848c-4f48-a609-e2c93d51cfee)
-
+AND operation
+![WhatsApp Image 2024-03-20 at 8 49 38 PM](https://github.com/Archanakattii/karchana/assets/160317292/39ddc5be-3c0e-43f2-a076-ac881d8396b8)
+OR operation
+![WhatsApp Image 2024-03-20 at 8 45 07 PM](https://github.com/Archanakattii/karchana/assets/160317292/235aefa1-2a62-4b95-b43c-50ff5fea2e8f)
+XOR operation
+![WhatsApp Image 2024-03-20 at 8 48 28 PM](https://github.com/Archanakattii/karchana/assets/160317292/daa68605-51af-4a62-994f-10b529f5e0ca)
 
 </details>
