@@ -235,6 +235,22 @@ Type this command again
 <details>
 <summary><b>TASK 4:</p>
 </b></summary>
+The code has been broken down into different parts:</p>
+<details> 
+<summary>They are:</p>
+</summary>
+1.Instruction fetch stage
+  
+  ![WhatsApp Image 2024-03-20 at 7 20 19 PM](https://github.com/Archanakattii/karchana/assets/160317292/906fff28-1e83-47b5-bf91-85f29cda645b)
+2.Instruction Decode Stage
+  ![WhatsApp Image 2024-03-20 at 7 20 19 PM (1)](https://github.com/Archanakattii/karchana/assets/160317292/0a471ef6-d6d9-4904-9e96-619375aa4f08)
+3.Registers used
+![WhatsApp Image 2024-03-20 at 7 20 21 PM](https://github.com/Archanakattii/karchana/assets/160317292/21e10dac-0d39-4dfe-b278-ab65fbee8c74)
+4.Instructions Hardcoded
+![WhatsApp Image 2024-03-20 at 7 20 19 PM (2)](https://github.com/Archanakattii/karchana/assets/160317292/69158abd-2623-4b12-b907-414ab14cb607)
+
+</details>
+  
  GTKWAVE SIMULATION 
     
     ls  #to check the contents of the folder
@@ -248,6 +264,23 @@ after running above commands for gtkwave window to pop up type</p>
 ![WhatsApp Image 2024-03-20 at 3 30 02 PM](https://github.com/Archanakattii/karchana/assets/160317292/f001eea0-c711-4cb7-9473-d1bf5431d025)
 
 ![WhatsApp Image 2024-03-20 at 3 21 22 PM](https://github.com/Archanakattii/karchana/assets/160317292/62ef5c85-054c-4627-aea3-52eaf621f22d)
+
+
+Execution Stage with Waveforms obtained for running the gtkwave archana.vcd</p>
+![WhatsApp Image 2024-03-20 at 3 21 23 PM](https://github.com/Archanakattii/karchana/assets/160317292/54ea93da-4472-4f6d-afe1-412babd0e945)
+
+Upon adding few signals the waves can be seen
+![WhatsApp Image 2024-03-20 at 3 21 23 PM (1)](https://github.com/Archanakattii/karchana/assets/160317292/010652c6-441b-480a-affe-48b33495352e)
+**ADD operation:**
+![WhatsApp Image 2024-03-20 at 7 44 56 PM](https://github.com/Archanakattii/karchana/assets/160317292/7c03b031-6015-4885-9bc1-9736e92cbc66)
+**SUB operation:**
+![WhatsApp Image 2024-03-20 at 7 47 16 PM](https://github.com/Archanakattii/karchana/assets/160317292/75d79052-b948-4283-94d4-b0f561cccec2)
+**OR operation:**
+![WhatsApp Image 2024-03-20 at 7 51 05 PM](https://github.com/Archanakattii/karchana/assets/160317292/71f80a5a-efe8-48e9-9010-9e0f34da4579)
+**AND operation:**
+![WhatsApp Image 2024-03-20 at 7 54 07 PM](https://github.com/Archanakattii/karchana/assets/160317292/0c6bb9eb-150b-4594-81ee-a4f7f6ab9fa1)
+**XOR operation:**
+![WhatsApp Image 2024-03-20 at 7 56 46 PM](https://github.com/Archanakattii/karchana/assets/160317292/8341be3e-a9da-414c-99df-b0d5479bfdc4)
 
 </details>
 
