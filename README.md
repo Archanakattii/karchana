@@ -272,13 +272,18 @@ Execution Stage with Waveforms obtained for running the gtkwave archana.vcd</p>
 Upon adding few signals the waves can be seen
 ![WhatsApp Image 2024-03-20 at 3 21 23 PM (1)](https://github.com/Archanakattii/karchana/assets/160317292/010652c6-441b-480a-affe-48b33495352e)
 **ADD operation:**
-![WhatsApp Image 2024-03-20 at 7 44 56 PM](https://github.com/Archanakattii/karchana/assets/160317292/7c03b031-6015-4885-9bc1-9736e92cbc66)
+![WhatsApp Image 2024-03-20 at 9 07 09 PM](https://github.com/Archanakattii/karchana/assets/160317292/1003e558-73d7-476a-94be-8691c6088152)
+
 **SUB operation:**
-![WhatsApp Image 2024-03-20 at 7 47 16 PM](https://github.com/Archanakattii/karchana/assets/160317292/75d79052-b948-4283-94d4-b0f561cccec2)
+![WhatsApp Image 2024-03-20 at 9 10 09 PM](https://github.com/Archanakattii/karchana/assets/160317292/805e92ae-f366-4751-947c-44b2f341697a)
+
 **OR operation:**
-![WhatsApp Image 2024-03-20 at 7 51 05 PM](https://github.com/Archanakattii/karchana/assets/160317292/71f80a5a-efe8-48e9-9010-9e0f34da4579)
+
+![WhatsApp Image 2024-03-20 at 9 10 29 PM](https://github.com/Archanakattii/karchana/assets/160317292/fabf54ec-d658-44d8-b0c5-8006c55f70f0)
+
 **AND operation:**
-![WhatsApp Image 2024-03-20 at 7 54 07 PM](https://github.com/Archanakattii/karchana/assets/160317292/0c6bb9eb-150b-4594-81ee-a4f7f6ab9fa1)
+![WhatsApp Image 2024-03-20 at 9 11 19 PM](https://github.com/Archanakattii/karchana/assets/160317292/821f4d8e-4e46-4943-8274-2e6c22e4e00d)
+
 **XOR operation:**
 ![WhatsApp Image 2024-03-20 at 7 56 46 PM](https://github.com/Archanakattii/karchana/assets/160317292/8341be3e-a9da-414c-99df-b0d5479bfdc4)
 
